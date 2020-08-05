@@ -1,6 +1,6 @@
 {
   "display": {
-    "title": "interactive-text",
+    "title": "grab-objects-advance",
     "favicon": "favicon_asset"
   },
   "contact": {
@@ -10,8 +10,8 @@
   "owner": "",
   "scene": {
     "parcels": [
-      "1,0", "1,1",
-      "0,0", "0,1"
+      "0,1","1,1",
+      "0,0","1,0"
     ],
     "base": "0,0"
   },
