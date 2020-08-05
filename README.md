@@ -10,7 +10,7 @@ Demonstrates how you can grab and move an object using the [cannon.js](https://g
 * Use your mouse to look around and <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> keys on your keyboard to move forward, left, backward and right respectively. 
 * To jump, press the <kbd>Space</kbd> key.
 * To grab the object, click and hold the <kbd>Left Mouse Button</kbd>.
-* Press the <kbd>E</kbd> key to pull the object in.
+* Press and hold the <kbd>E</kbd> key to pull the object in.
 
 ## Issues
 There are a couple of issues that need looking at:
