@@ -1,10 +1,10 @@
-# Grab Objects Advance
-_demo of grab-objects-advance scene running in preview._
+# Grab Objects Advanced
+_demo of grab-objects-advanced scene running in preview._
 
-![demo](https://github.com/decentraland-scenes/grab-objects-advance/blob/master/screenshots/grab-objects-advance.gif)
+![demo](https://github.com/decentraland-scenes/grab-objects-advanced/blob/master/screenshots/grab-objects-advanced.gif)
 
 ## Description
-Demonstrates how you can grab and move an object using the [cannon.js](https://github.com/schteppe/cannon.js) physics engine. This is the advance version of this scene [here](https://github.com/decentraland-scenes/grab-objects). To view the scene, please visit [here](https://grab-objects-advance.vercel.app/).
+Demonstrates how you can grab and move an object using the [cannon.js](https://github.com/schteppe/cannon.js) physics engine. This is the advanced version of this scene [here](https://github.com/decentraland-scenes/grab-objects). To view the scene, please visit [here](https://grab-objects-advanced.vercel.app/).
 
 ## Instructions
 * Use your mouse to look around and <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> keys on your keyboard to move forward, left, backward and right respectively. 
