@@ -17,17 +17,22 @@ There are a couple of issues that need looking at:
 * Object reorientates itself when you first pick it up.
 * Making large arcs/turns whilst holding the object can cause the object to go out of bounds.
 
-## Try it out 
-After you clone the project, run the following:
+## Try it out
+
+**Install the CLI**
+
+Download and install the Decentraland CLI by running the following command:
 
 ```
 $ npm i -g decentraland
 ```
 
-Followed by:
+**Previewing the scene**
+
+Download this example and navigate to its directory, then run:
 
 ```
-$ dcl start
+$  dcl start
 ```
 
 ## Acknowledgements
